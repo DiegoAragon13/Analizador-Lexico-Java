@@ -1,4 +1,4 @@
-ca# LEXICAL ANALYZER - WINGWEB TECHNOLOGY
+# LEXICAL ANALYZER - WINGWEB TECHNOLOGY
 ================================================================================
 
 ## INTELLECTUAL PROPERTY
